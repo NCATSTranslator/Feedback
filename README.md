@@ -1,2 +1,2 @@
-# DataGaps
-A repo for tracking gaps in Translator data and finding ways to fill them.
+# Feedback
+A repo for tracking feedback on Translator from the user interface and elsewhere.
