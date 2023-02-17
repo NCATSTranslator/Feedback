@@ -17,7 +17,6 @@ Steps to reproduce the behavior including:
 - a PK that can be used to look up the results on ARAX.
 - screenshots that show the issue in both the UI and on ARAX.
 
-
 **Assignees**
 Please assign the ticket to the person who you think should fix the bug.  If you are not sure,
 please leave the assignee blank and we can discuss it in TAQA. 
