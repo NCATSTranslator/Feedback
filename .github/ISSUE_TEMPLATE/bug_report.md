@@ -17,8 +17,6 @@ Steps to reproduce the behavior including:
 - a PK that can be used to look up the results on ARAX.
 - screenshots that show the issue in both the UI and on ARAX.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen and what your desired outcome is.
 
 **Assignees**
 Please assign the ticket to the person who you think should fix the bug.  If you are not sure,
